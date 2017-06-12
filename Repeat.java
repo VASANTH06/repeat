@@ -22,3 +22,12 @@ class Repeat
         s++;
         break;
         }
+        if(s!=0)
+          break;
+      }
+      if(i!=a)
+      {
+        System.out.print(b[i]);
+      }
+    }
+  }
